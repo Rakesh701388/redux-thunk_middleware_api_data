@@ -1,0 +1,2 @@
+# redux-thunk_middleware_api_data
+redux-thunk_middleware_api_data
